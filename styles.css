@@ -1,0 +1,120 @@
+#topSection {
+    background-color: #003366;
+    height: 400px;
+    padding: 10px 100px;
+    border: 2px solid black;
+}
+
+.whiteText {
+    color: white;
+    font-weight: bold;
+}
+.rightText {
+    color: gray;
+}
+
+.rightSide {
+    width: 400px;
+    height: 50px;
+    display: flex;
+    gap: 40px;
+}
+
+#headerSection {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    color: white;
+    font-size: 60px;
+    width: 500px;
+}
+
+.titleDescription {
+    color: gainsboro;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+button1 {
+    background-color: blue;
+    border-radius: 25px;
+    color: white;
+}
+
+.titleSection {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.captions {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#caption1{
+    width: 250px;
+}
+
+#caption2{
+    width: 250px;
+}
+
+#caption3{
+    width: 200px;
+}
+
+#caption4{
+    width: 400px;
+}
+
+.quote {
+    font-size: 20px;
+    text-align: center;
+}
+
+.source {
+    text-align: end;
+    font-weight: bold;
+}
+
+#finalSection {
+    background-color: gainsboro;
+    margin: 40px 0px;
+    padding: 40px;
+}
+
+#ad {
+    display: flex;
+    background-color: skyblue;
+    width: 500px;
+    padding: 50px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+
+.adContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.leftAd {
+    color: white;
+}
+
+#button2 {
+    background-color: skyblue;
+    color: white;
+    border: 2px solid white;
+}
